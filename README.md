@@ -42,6 +42,15 @@
 </p>
 
 ---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/boyan-georgiev-08853329b" target="_blank">💼 LinkedIn: Boyan Georgiev</a>
+</p>
+
+---
+
 <p align="center">
   <i>"Code like nobody's watching. Fly like everyone's filming."</i>
 </p>
