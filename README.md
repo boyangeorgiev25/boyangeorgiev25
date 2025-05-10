@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Boyan 👾</h1>
 <p align="center">
-  <b>Student @ ACS • Dev in the making • Drone flyer • Visual nerd</b>
+  <b>Full-stack apprentice • Clean code advocate • Learning by building</b>
 </p>
 
 ---
