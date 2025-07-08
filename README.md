@@ -8,6 +8,9 @@
 ### 🧠 About Me
 
 - 🛠️ Currently building with **Java**, **C#**, and **HTML/CSS,  and learning React & JavaScript**
+- 🎮 Making games like **Quarto** and **BattleShips**
+- 🚁 Flying drones for FPV content (DJI + 5-inch custom builds)
+- 📷 Shooting w/ my Sony ZV-E10 + gimbal
 
 - 💡 Dreaming of launching a **creative-tech brand**
 
