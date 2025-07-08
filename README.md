@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Boyan 👾</h1>
+<h1 align="center">Welcome — I'm Boyan</h1>
 <p align="center">
-  <b>Full-stack apprentice • Clean code advocate • Learning by building</b>
+  <strong>Aspiring Full-Stack Developer • Advocate for Clean, Maintainable Code • Focused on Learning by Creating</strong>
 </p>
 
 ---
