@@ -20,10 +20,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎲 [**Quarto_Game**](https://github.com/bobyTopG/Quarto_Game) | Turn-based game in Java with AI strategies |
-| 🚢 [**BattleShips**](https://github.com/bobyTopG/BattleShips) | Classic Battleship game with clean grid mechanics |
-| 🌐 [**MyPortfolio**](https://github.com/bobyTopG/MyPortfolio) | Personal web portfolio with modern styling |
-| 🎮 [**CodeCanvas100**](https://github.com/bobyTopG/CodeCanvas100) | 100% frontend code experiments |
+| 🎲 [**Quarto_Game**](https://github.com/boyangeorgiev25/Quarto_Game) | Turn-based game in Java with AI strategies |
+| 🚢 [**BattleShips**](https://github.com/boyangeorgiev25/BattleShips) | Classic Battleship game with clean grid mechanics |
+| 🌐 [**MyPortfolio**](https://github.com/boyangeorgiev25/MyPortfolio) | Personal web portfolio with modern styling |
+| 🎮 [**CodeCanvas100**](https://github.com/boyangeorgiev25/CodeCanvas100) | 100% frontend code experiments |
 
 ---
 
