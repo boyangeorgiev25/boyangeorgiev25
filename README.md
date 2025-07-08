@@ -39,7 +39,7 @@
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,react,git,vscode,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,react,git,vscode,github" />
 </p>
 
 ---
