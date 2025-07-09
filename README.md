@@ -21,7 +21,7 @@
 | Project | Description |
 |--------|-------------|
 | 🎲 [**Quarto_Game**](https://github.com/boyangeorgiev25/Quarto_Game) | Turn-based game in Java with AI strategies |
-| 🚢 [**BattleShips**](https://github.com/boyangeorgiev25/BattleShips) | Classic Battleship game with clean grid mechanics |
+| 🎒 [**travel-list**](https://github.com/boyangeorgiev25/travel-list) | Travel packing checklist built with React | 
 | 🌐 [**MyPortfolio**](https://github.com/boyangeorgiev25/MyPortfolio) | Personal web portfolio with modern styling |
 | 🎮 [**CodeCanvas100**](https://github.com/boyangeorgiev25/CodeCanvas100) | 100% frontend code experiments |
 
