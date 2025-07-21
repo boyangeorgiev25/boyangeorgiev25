@@ -24,7 +24,7 @@
 | Project | Description |
 |--------|-------------|
 | 🎲 [**Quarto_Game**](https://github.com/boyangeorgiev25/Quarto_Game) | Turn-based Java game with AI strategies (Rule-Based) |
-| 🎒 [**Travel-list**](https://github.com/boyangeorgiev25/Travel-list) | React-based packing checklist with dynamic item handling |
+| 🍿 [**usePopcorn**](https://github.com/boyangeorgiev25/use-popcorn) | React-based movie tracker with search, rating, and watchlist features
 | 🌐 [**MyPortfolio**](https://github.com/boyangeorgiev25/MyPortfolio) | Personal website built with responsive styling and smooth UX |
 
 ---
