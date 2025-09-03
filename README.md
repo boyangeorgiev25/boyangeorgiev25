@@ -11,8 +11,7 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 Passionate about building with **React** **Java**, **C#**, **HTML/CSS**  
-- 🚀 Currently learning **modern JavaScript**
+- 👨‍💻 Passionate about building with  **Java**, **C#**, **JavaScript**, **HTML/ CSS**, **React**
 - 🎮 Into AI-driven game logic, creative UI, and clean architecture
 - 🚁 FPV drone pilot — flying DJI + custom 5-inch builds
 - 🧠 Always learning by building. Always building with purpose.
