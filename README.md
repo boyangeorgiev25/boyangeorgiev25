@@ -24,8 +24,7 @@
 |--------|-------------|
 | 🌐 [**MyPortfolio**](https://github.com/boyangeorgiev25/MyPortfolio.git) | Personal website built with responsive styling and smooth UX |
 | 🎲 [**Quarto_Game**](https://github.com/boyangeorgiev25/Quarto_Game) | Turn-based Java game with AI strategies (Rule-Based) |
-| 🍿 [**usePopcorn**](https://github.com/boyangeorgiev25/use-popcorn) | React-based movie tracker with search, rating, and watchlist features
- 
+| 🗺️ [**WorldWise**](https://github.com/boyangeorgiev25/WorldWise.git) | React app to save, organize, and explore your favorite locations |
 
 ---
 
