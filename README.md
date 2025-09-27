@@ -22,9 +22,10 @@
 
 | Project | Description |
 |--------|-------------|
+| 🌐 [**MyPortfolio**](https://github.com/boyangeorgiev25/MyPortfolio.git) | Personal website built with responsive styling and smooth UX |
 | 🎲 [**Quarto_Game**](https://github.com/boyangeorgiev25/Quarto_Game) | Turn-based Java game with AI strategies (Rule-Based) |
 | 🍿 [**usePopcorn**](https://github.com/boyangeorgiev25/use-popcorn) | React-based movie tracker with search, rating, and watchlist features
-| 🌐 [**MyPortfolio**](https://github.com/boyangeorgiev25/MyPortfolio) | Personal website built with responsive styling and smooth UX |
+ 
 
 ---
 
